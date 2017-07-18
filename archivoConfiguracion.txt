@@ -1,0 +1,33 @@
+# este archivo sirve con el script de monitoreo de procesos 
+#hecho por :
+# jonathan tomas aguirres
+# luis enrique sarabia
+# jose orlando polanco "el colocho"
+
+
+
+usuario=
+
+tiempo=1
+
+formato=0
+
+#############################################################
+#Modo de empleo: ./Programa.sh [OPCIÓN]...
+#Monitorea los procesos en ejecucion por usuario,
+#durante un lapso de tiempo determinado.
+#
+#  -u,                      indica de que usuario se monitorearan los procesos 
+#  -t,                      tiempo de monitoreo 
+#  -f,		           formato personalizado de salida de datos
+#  -h,                      muestra esta ayuda y finaliza
+#
+#Ejemplos:
+#
+#   ./Programa.sh -f -u Asterion   Monitorea los procesos del usuario Asterion,
+#                                  imprime con formato personalizado
+#
+#   ./Prograna.sh -t 2             Monitorea durante 2 minutos los procesos del 
+#                                  usuario por defecto
+#
+#Comunicar errores de este script a 00500411@uca.edu.sv        

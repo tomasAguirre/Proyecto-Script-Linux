@@ -1,0 +1,76 @@
+SCRIPT(8)            Manual del Administrador de Sistemas             SCRIPT(8)
+
+NOMBRE 
+       Programa.sh, - monitoreo de procesos  por usuario en determinado 
+
+SINOPSIS
+	./Programa.sh [-t] tiempo [-u] usuario [-f]
+
+DESCRIPCIÓN
+	Programa.sh es un script que monitorea el los procesos en ejecucion por	       
+        usuario durante un lapso de tiempo determinado creado apartir de el uso
+	de otros comandos comunes en el sistemas GNU/Linux y el uso de los arc-	      
+        -chivoConfiguracion.txt ubicado en el directorio /etc.
+
+        -u,
+	       elige el usuario del cual se monitorearan los procesos
+        -t,
+	       tiempo de monitoreo de los procesos del usuario
+	       (de 5 a 0 min) 
+	-f,
+	       impresion de los datos en formato personalisado a gusto de 
+	       los programadores
+	-t,
+	        muestra una pequeña ayuda del comando y termina
+	
+BUGS
+	Informar por errores de este script a 00500411@.uca.sv, para errores
+	y correcciones. Pero antes de informar de algo como error, por favor 
+	tratar de estar seguros de lo que realmente es un error,no un 
+	malentendido 
+
+ARCHIVOS
+	/var/salidaDatos.txt
+	        archivo donde registra la informacion que recopila el 
+		programa 
+	
+	/etc/archivoConfiguracion.txt
+	       archivo que contiene las variables nesesarias para el 
+               funcionamiento del script
+
+VARIABLES
+	usurio
+               usuario del cual se moniteraara los procesos en ejecucion
+	       (usuarios existenes en el sistema)
+	tiempo
+	       tiempo de monitoreo del los procesos
+	       (entre 0 a 5 min)
+	formato
+	       salido con formato de los datos
+
+AUTORES
+	Este script fue programado y deputado por :
+      
+        -jonathan tomas aguirres marquez
+	
+	-Luis Enrique Romero Sarabria
+
+	-Jose Orlando Polanco Zelada "El colocho"
+
+COPYING
+
+       Permission  is  granted  to make and distribute verbatim copies of this
+       document provided the copyright notice and this permission  notice  are
+       preserved on all copies.
+
+       Permission  is granted to copy and distribute modified versions of this
+       document under the conditions for verbatim copying, provided  that  the
+       entire  resulting derived work is distributed under the terms of a per‐
+       mission notice identical to this one.
+
+       Permission is granted to copy and distribute translations of this docu‐
+       ment  into  another  language,  under the above conditions for modified
+       versions, except that this permission notice may be stated in a  trans‐
+       lation approved by the Free Software Foundation.      
+
+SCRIPT(8)            Manual del Administrador de Sistemas             SCRIPT(8)

@@ -1,0 +1,236 @@
+El usuario es : tomas
+El total de procesos es : 
+41
+El estado de los procesos es :
+      2 R
+     42 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 22.8  8.5 1011028 264276 ?      Sl   06:17   2:49 /usr/lib/firefox/firefox
+El usuario es : tomas
+El total de procesos es : 
+41
+El estado de los procesos es :
+      2 R
+     42 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 23.4  8.5 1011476 263852 ?      Sl   06:17   3:08 /usr/lib/firefox/firefox
+[1;31m------------------------imprimiendo con formato---------------------------------
+[0;32m El usuario :
+[0;32m tomas
+--------------------------------------------------------------------------------
+[0;33m El total de procesos es : 
+[0;33m 41
+--------------------------------------------------------------------------------
+[1;34m El estado de los procesos es :
+[1;34m       2 R
+     42 S
+--------------------------------------------------------------------------------
+[0;36m El proceso que mas memoria esta consumiendo es :
+[0;36m USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 25.1  8.6 1010772 267936 ?      Sl   06:17   4:31 /usr/lib/firefox/firefox
+[1;31m--------------------------------------------------------------------------------
+[1;31m------------------------imprimiendo con formato---------------------------------
+[0;32m El usuario :
+[0;32m tomas
+--------------------------------------------------------------------------------
+[0;33m El total de procesos es : 
+[0;33m 41
+--------------------------------------------------------------------------------
+[1;34m El estado de los procesos es :
+[1;34m       2 R
+     42 S
+--------------------------------------------------------------------------------
+[0;36m El proceso que mas memoria esta consumiendo es :
+[0;36m USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 25.1  8.6 1010772 267936 ?      Sl   06:17   4:31 /usr/lib/firefox/firefox
+[1;31m--------------------------------------------------------------------------------
+-----------------------AL INICIO DEL PROGRAMA----------------------------------- 
+El usuario es : tomas
+El total de procesos es : 
+41
+El estado de los procesos es :
+      2 R
+     42 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 27.8  9.8 1003984 303568 ?      Sl   06:17  11:25 /usr/lib/firefox/firefox
+-----------------------AL FINAL DEL PROGRAMA------------------------------------
+El usuario es : tomas
+El total de procesos es : 
+41
+El estado de los procesos es :
+      1 R
+     43 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 27.8  9.8 1003984 303832 ?      Sl   06:17  11:43 /usr/lib/firefox/firefox
+-----------------------AL INICIO DEL PROGRAMA----------------------------------- 
+El usuario es : tomas
+El total de procesos es : 
+44
+El estado de los procesos es :
+      2 R
+     45 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 28.0  9.7 1004112 302876 ?      Rl   06:17  12:45 /usr/lib/firefox/firefox
+-----------------------AL INICIO DEL PROGRAMA----------------------------------- 
+El usuario es : tomas
+El total de procesos es : 
+44
+El estado de los procesos es :
+      3 R
+     44 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 28.0  9.8 1004368 304168 ?      Sl   06:17  13:25 /usr/lib/firefox/firefox
+-----------------------AL INICIO DEL PROGRAMA----------------------------------- 
+El usuario es : evelpides
+El total de procesos es : 
+0
+El estado de los procesos es :
+      1 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 28.0  8.9 997740 277416 ?       Sl   06:17  14:37 /usr/lib/firefox/firefox
+-----------------------AL FINAL DEL PROGRAMA------------------------------------
+El usuario es : evelpides
+El total de procesos es : 
+0
+El estado de los procesos es :
+      1 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 27.7  9.0 997740 278760 ?       Sl   06:17  14:46 /usr/lib/firefox/firefox
+-----------------------AL INICIO DEL PROGRAMA----------------------------------- 
+El usuario es : tomas
+El total de procesos es : 
+43
+El estado de los procesos es :
+      1 R
+     45 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 26.1  9.9 999360 309132 ?       Sl   06:17  15:53 /usr/lib/firefox/firefox
+-----------------------AL INICIO DEL PROGRAMA----------------------------------- 
+El usuario es : tomas
+El total de procesos es : 
+43
+El estado de los procesos es :
+      1 R
+     45 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 25.6  9.9 999424 306980 ?       Sl   06:17  16:16 /usr/lib/firefox/firefox
+-----------------------AL FINAL DEL PROGRAMA------------------------------------
+El usuario es : tomas
+El total de procesos es : 
+43
+El estado de los procesos es :
+      1 R
+     45 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 25.4  9.9 999808 306688 ?       Rl   06:17  16:26 /usr/lib/firefox/firefox
+-----------------------AL INICIO DEL PROGRAMA----------------------------------- 
+El usuario es : tomas
+El total de procesos es : 
+41
+El estado de los procesos es :
+      1 R
+     43 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 25.2  9.9 999808 307244 ?       Sl   06:17  16:34 /usr/lib/firefox/firefox
+-----------------------AL INICIO DEL PROGRAMA----------------------------------- 
+El usuario es : tomas
+El total de procesos es : 
+42
+El estado de los procesos es :
+      2 R
+     43 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 24.4  9.7 998464 299936 ?       Sl   06:17  17:11 /usr/lib/firefox/firefox
+-----------------------AL FINAL DEL PROGRAMA------------------------------------
+El usuario es : tomas
+El total de procesos es : 
+42
+El estado de los procesos es :
+      2 R
+     43 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 24.3  9.7 998528 300996 ?       Sl   06:17  17:20 /usr/lib/firefox/firefox
+-----------------------AL INICIO DEL PROGRAMA----------------------------------- 
+El usuario es : tomas
+El total de procesos es : 
+42
+El estado de los procesos es :
+      2 R
+     43 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 24.2  9.7 998528 301268 ?       Rl   06:17  17:24 /usr/lib/firefox/firefox
+-----------------------AL INICIO DEL PROGRAMA----------------------------------- 
+El usuario es : tomas
+El total de procesos es : 
+42
+El estado de los procesos es :
+      2 R
+     43 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 24.2  9.7 998528 301412 ?       Sl   06:17  17:27 /usr/lib/firefox/firefox
+-----------------------AL FINAL DEL PROGRAMA------------------------------------
+El usuario es : tomas
+El total de procesos es : 
+42
+El estado de los procesos es :
+      1 R
+     44 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 24.0  9.7 998656 300792 ?       Sl   06:17  17:35 /usr/lib/firefox/firefox
+-----------------------AL INICIO DEL PROGRAMA----------------------------------- 
+El usuario es : tomas
+El total de procesos es : 
+42
+El estado de los procesos es :
+      1 R
+     44 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 23.8  9.7 998720 301236 ?       Sl   06:17  17:51 /usr/lib/firefox/firefox
+-----------------------AL FINAL DEL PROGRAMA------------------------------------
+El usuario es : tomas
+El total de procesos es : 
+42
+El estado de los procesos es :
+      1 R
+     44 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 23.7  9.9 999296 307844 ?       Sl   06:17  18:01 /usr/lib/firefox/firefox
+-----------------------AL INICIO DEL PROGRAMA----------------------------------- 
+El usuario es : tomas
+El total de procesos es : 
+44
+El estado de los procesos es :
+      1 R
+     46 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 26.2 11.7 1035100 362452 ?      Sl   06:17  31:45 /usr/lib/firefox/firefox
+-----------------------AL FINAL DEL PROGRAMA------------------------------------
+El usuario es : tomas
+El total de procesos es : 
+43
+El estado de los procesos es :
+      1 R
+     45 S
+El proceso que mas memoria esta consumiendo es :
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+tomas     2355 26.6  9.8 1071876 304964 ?      Sl   06:17  32:25 /usr/lib/firefox/firefox
